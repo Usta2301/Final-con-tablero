@@ -1,8 +1,6 @@
 streamlit
 streamlit-drawable-canvas
-tensorflow
+tensorflow==2.11.0
+Pillow
 numpy
 matplotlib
-emnist
-scikit-learn
-pillow
